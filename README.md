@@ -3,7 +3,6 @@ Hello, I’m @valelovan
 - 👀 I’m interested in software engineering 
 - 🏛 I am a junior in the College of Engineering and Computing at George Mason University 🔰
 - 📫 How to reach me:
-   - Email: v.lovaan@gmail.com
    - LinkedIn: https://www.linkedin.com/in/vale-lovan-9196731b9
 
 <!---
