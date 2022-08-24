@@ -1,7 +1,7 @@
 Hello, I’m @valelovan
 
 - 👨‍💻 I’m interested in software engineering 
-- 🏛 I'm a junior in the College of Engineering and Computing at George Mason University 🔰
+- 🏛 I'm a third year at the University of Virginia
 - 📫 How to reach me:
    - LinkedIn: https://www.linkedin.com/in/vale-lovan-9196731b9
 
