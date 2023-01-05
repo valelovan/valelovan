@@ -1,6 +1,6 @@
 Hello, I’m @valelovan
 
-- 👨‍💻 Interested in software engineering 
+- 👨‍💻 Software engineering 
 - 🏛 Third year at the University of Virginia
 - 📫 How to reach me:
    - LinkedIn: https://www.linkedin.com/in/vale-lovan-9196731b9
