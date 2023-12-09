@@ -8,8 +8,8 @@ Hello, I’m @valelovan
    - LinkedIn: https://www.linkedin.com/in/valelovan/
 
 ## Project links
-- https://adv-software-dev-project-82c26c41941d.herokuapp.com/
-- https://valelovan.github.io/
+> https://adv-software-dev-project-82c26c41941d.herokuapp.com/
+> https://valelovan.github.io/
 
 <!---
 valelovan/valelovan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
