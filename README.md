@@ -2,7 +2,7 @@
 
 Hello, I’m @valelovan
 
-- 👨‍💻 Software engineering 
+- 👨‍💻 Studying computer science with an interest in software engineering 
 - 🏛 Fourth year at the University of Virginia
 - 📫 How to reach me:
    - LinkedIn: https://www.linkedin.com/in/valelovan/
