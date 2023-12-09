@@ -6,6 +6,7 @@ Hello, I’m @valelovan
 - 🏛 Fourth year at the University of Virginia
 - 📫 How to reach me:
    - LinkedIn: https://www.linkedin.com/in/valelovan/
+   - Email: vrl5chk@virginia.edu
 
 ## Project links
 * https://adv-software-dev-project-82c26c41941d.herokuapp.com/
